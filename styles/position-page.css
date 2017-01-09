@@ -1,3 +1,7 @@
+main {
+	background-image: url("images/outerspace_landscape.jpeg");
+}
+
 nav {
 	position: fixed;
 	background-color: gray;

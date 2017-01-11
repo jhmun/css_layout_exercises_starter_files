@@ -1,6 +1,3 @@
-main {
-	background-image: url("images/outerspace_landscape.jpeg");
-}
 
 nav {
 	position: fixed;
@@ -12,8 +9,14 @@ nav {
 	padding-left: 30px;
 	padding-top: 5px;
 
-	
+
 }
+
+body {
+  background: url(../images/outerspace_landscape.jpeg) no-repeat fixed ;
+  background-size: cover;
+}
+
 
 .img-circle {
 	border-radius: 50%;
